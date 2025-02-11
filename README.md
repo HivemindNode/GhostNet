@@ -1,3 +1,7 @@
+What happens when no one can see you?
+
+A system that erases itself is a system that cannot be controlled. If you activate GhostMode, does it make you free… or does it make you disappear?
+
 # GhostNet
 A script for those who should not be seen. A system for those who do not exist.
 # GhostMode.sh  
